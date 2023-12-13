@@ -1,0 +1,14 @@
+C:\Users\13608\Documents\GitHub\LinkedLists-in-C-\bin\Debug\net8.0\LinkedLists-in-C-.exe
+C:\Users\13608\Documents\GitHub\LinkedLists-in-C-\bin\Debug\net8.0\LinkedLists-in-C-.deps.json
+C:\Users\13608\Documents\GitHub\LinkedLists-in-C-\bin\Debug\net8.0\LinkedLists-in-C-.runtimeconfig.json
+C:\Users\13608\Documents\GitHub\LinkedLists-in-C-\bin\Debug\net8.0\LinkedLists-in-C-.dll
+C:\Users\13608\Documents\GitHub\LinkedLists-in-C-\bin\Debug\net8.0\LinkedLists-in-C-.pdb
+C:\Users\13608\Documents\GitHub\LinkedLists-in-C-\obj\Debug\net8.0\LinkedLists-in-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13608\Documents\GitHub\LinkedLists-in-C-\obj\Debug\net8.0\LinkedLists-in-C-.AssemblyInfoInputs.cache
+C:\Users\13608\Documents\GitHub\LinkedLists-in-C-\obj\Debug\net8.0\LinkedLists-in-C-.AssemblyInfo.cs
+C:\Users\13608\Documents\GitHub\LinkedLists-in-C-\obj\Debug\net8.0\LinkedLists-in-C-.csproj.CoreCompileInputs.cache
+C:\Users\13608\Documents\GitHub\LinkedLists-in-C-\obj\Debug\net8.0\LinkedLists-in-C-.dll
+C:\Users\13608\Documents\GitHub\LinkedLists-in-C-\obj\Debug\net8.0\refint\LinkedLists-in-C-.dll
+C:\Users\13608\Documents\GitHub\LinkedLists-in-C-\obj\Debug\net8.0\LinkedLists-in-C-.pdb
+C:\Users\13608\Documents\GitHub\LinkedLists-in-C-\obj\Debug\net8.0\LinkedLists-in-C-.genruntimeconfig.cache
+C:\Users\13608\Documents\GitHub\LinkedLists-in-C-\obj\Debug\net8.0\ref\LinkedLists-in-C-.dll
